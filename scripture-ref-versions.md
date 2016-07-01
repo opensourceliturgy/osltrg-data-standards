@@ -88,12 +88,16 @@ included in the string.
 The deuterocanonicals are included together with the Hebrew Scriptures.
 This is pretty much standard in Catholic Bibles.
 
-### pti
-The deuterocanonicals are included - but as a separate collection between
+### pt
+If the deuterocanonicals are included it is as a separate collection between
 the Hebrew Scriptures and the New Testament.
-This is pretty much standard in older Protestant Bibles from the
-earlier years of the Protestant Separation.
+This code should also be used for editions that omit the deuterocanonicals
+altogether - as the remaining books will have the same chapter-verse
+numbering as those that treat the deuterocanonicals as a separate
+collection.
 
-### ptx
-The deuterocanonicals are omitted altogether.
-This is typical in modern Protestant Bibles.
+(__NOTE:__ The first draft of this document had separate codes __pti__
+and __ptx__ to distinguish those who separate the deuterocanonicals
+into a separate collection from those that omit it altogether.
+This decision was changed because a simple scan of an edition's
+book-list can reveal if a book is altogether excluded.)
